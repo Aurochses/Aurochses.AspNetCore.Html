@@ -1,11 +1,12 @@
-# Aurochses Html
+# Aurochses AspNetCore Html
 
-Aurochses Html is a library for HTML.
+Aurochses AspNetCore Html is a library for AspNetCore HTML.
 
 ## NuGet
 
-[![NuGet](https://img.shields.io/nuget/v/Aurochses.Html.svg?style=flat-square)](https://www.nuget.org/packages/Aurochses.Html)
-[![NuGet](https://img.shields.io/nuget/dt/Aurochses.Html.svg?style=flat-square)](https://www.nuget.org/packages/Aurochses.Html)
+[![NuGet](https://img.shields.io/nuget/v/Aurochses.AspNetCore.Html.svg?style=flat-square)](https://www.nuget.org/packages/Aurochses.AspNetCore.Html)
+[![NuGet](https://img.shields.io/nuget/dt/Aurochses.AspNetCore.Html.svg?style=flat-square)](https://www.nuget.org/packages/Aurochses.AspNetCore.Html)
+[![NuGet Status](http://nugetstatus.com/Aurochses.AspNetCore.Html.png)](http://nugetstatus.com/packages/Aurochses.AspNetCore.Html)
 
 ## Builds
 
