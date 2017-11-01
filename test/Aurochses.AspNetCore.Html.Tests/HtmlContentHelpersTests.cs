@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Html;
 using Xunit;
 
-namespace Aurochses.Html.Tests
+namespace Aurochses.AspNetCore.Html.Tests
 {
     public class HtmlContentHelpersTests
     {
