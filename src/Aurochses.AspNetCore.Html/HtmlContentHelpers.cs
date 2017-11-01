@@ -2,7 +2,7 @@
 using System.Text.Encodings.Web;
 using Microsoft.AspNetCore.Html;
 
-namespace Aurochses.Html
+namespace Aurochses.AspNetCore.Html
 {
     /// <summary>
     /// HtmlContentHelpers.
