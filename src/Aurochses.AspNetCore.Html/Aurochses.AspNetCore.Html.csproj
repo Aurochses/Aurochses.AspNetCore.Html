@@ -2,10 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Version>2.1.0</Version>
+    <PackageId>Aurochses.AspNetCore.Html</PackageId>
+    <Version>2.2.0</Version>
     <Authors>Aurochses</Authors>
     <Company>Aurochses</Company>
-    <Description>Library for ASP.NET Core HTML.</Description>
+    <Description>Aurochses.AspNetCore.Html is a library for ASP.NET Core HTML.</Description>
     <Copyright>Aurochses 2017</Copyright>
     <PackageLicenseUrl>https://github.com/Aurochses/Aurochses.AspNetCore.Html/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/Aurochses/Aurochses.AspNetCore.Html/wiki</PackageProjectUrl>
@@ -19,7 +20,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Html.Abstractions" Version="2.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Html.Abstractions" Version="2.2.0" />
   </ItemGroup>
 
 </Project>
